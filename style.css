@@ -1,0 +1,22 @@
+			.bg-image {
+                            width: 100%;
+                            background-repeat: no-repeat;
+                            background-position: center center;
+                            background-size: contain;
+                            text-align: center;
+                        }
+                        img {
+                                max-height: 50%;
+                                max-width: 80%;
+                        }
+                        h1 {
+                            font-family: 'Stick No Bills', sans-serif;
+                        }
+                        .stop {
+                            width: 100%;
+                            height: 25%;
+                            background-repeat: no-repeat;
+                            background-position: center center;
+                            background-size: contain;
+                            text-align: center;
+                        }}
